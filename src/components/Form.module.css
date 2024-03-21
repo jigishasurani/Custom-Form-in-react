@@ -1,0 +1,16 @@
+.flex_container > button{
+    background-color: rgb(210, 214, 218);
+  color: rgb(0, 0, 0);
+  width: 17%;
+  height: 5%;
+  margin: 10px;
+  text-align: center;
+  font-size: 17px;
+  border-radius: 20px 20px 20px 20px; 
+  cursor: pointer;
+}
+
+.button:hover, .button:hover{
+    background-color: rgb(239, 136, 136);
+    transition: 1s background ease;
+}
